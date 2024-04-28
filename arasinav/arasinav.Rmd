@@ -1,7 +1,7 @@
 ---
-title: "Çalışmanızın Başlığı"
+title: "CO₂ Emisyon Oranı Ve Ülkelerin Ekonomik Büyümüşlüğü"
 author: 
-  - İsim Soyisim[^1]
+  - Şeyma Fidan[^1]
 bibliography: ../bibliography/biblio.bib
 csl: ../csl/apa-tr.csl
 header-includes:
@@ -32,7 +32,7 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 <!-- ======================================================================= -->
 <!-- ============================== NOTLAR ================================= -->
 <!-- ======================================================================= -->
-[^1]: Öğrenci Numarası
+[^1]: 21080462
 
 # Vize Hakkında Önemli Bilgiler
 
@@ -43,16 +43,30 @@ knitr::opts_chunk$set(cache = FALSE, echo = TRUE, message = FALSE, warning = FAL
 \colorbox{WildStrawberry}{Daha fazla bilgi için proje klasöründeki README.md dosyasını okuyunuz.}
 
 # Giriş
-Bu taslak size proje ödevinizi yazarken yardımcı olması amacıyla oluşturulmuştur. Ödevlerinizde, makalelerinizde, sunumlarınızda ve projelerinizde kullandığınız tüm bilgi kaynaklarına atıfta bulunmalısınız. Alıntı ve gönderme yapmak okuyuculara çalışmanızda kullandığınız/başvurduğunuz  kaynaklara ulaşma imkanı sağlar. **Her ne kadar kendi sözlerinizi kullanıyor olsanız da, başkalarına ait fikirleri çalışmanızda aktarıyorsanız bu fikirlerin kaynağını belgelemek zorundasınız. Aksi takdirde akademik intihal yapmış olursunuz.** Yazım konusunda @aydinonat:2007'ye başvurabilirsiniz. 
+  Ülkeler ekonomik gelişmelerini planlamak zorundadır . Bu gelişmeler ise uzun , kısa ve orta vadede olabilir . Az gelişmiş ve gelişmekte olan ülkeler için ekonomik büyüme çok önemlidir .Ekonomik olarak büyüyünce kalkınmış bir ülke olabileceklerini düşüyorlar . Tabi ülkeler ön plana ekonomik büyüme arzusunu alınca , dünya genelinde enerji tüketimini artırırken, söz konusu enerji için birincil enerji kaynağı olan fosil yakıt tüketimini arttırmaktadırlar . Doğal olarak fosil yakıt tüketimi de CO2 salınımını arttırmıştır . Küresel ısınma sorunu açığa çıktıkça ; ülkeler , otoriteler ve bilim insanları bu konuda çalışmalar yapmaya başlamışlardır . ‘’ Birleşmiş Milletler (BM) tarafından Ekim 2015’te yayımlanan, “İklim Bağlantılı Doğal Afetlerin İnsani Maliyeti” isimli raporda, 20 yılda kayıtlara geçen küresel olarak toplam 6,457 doğal afetin %90’ı sel, fırtına, sıcak hava dalgası, kuraklık ve diğer aşırı iklim hareketlerinden kaynaklandığı; 1995 yılından bu yana aşırı iklim hareketleri kaynaklı afetler nedeniyle 606 bin kişinin yaşamını yitirdiği, 4,1 milyar insanın ise etkilendiği belirtilmektedir’’* Sera gazı salınımının azaltılması için ekonomik göstergeler ile enerji tüketimi ve CO2 emisyonu arasındaki ilişkinin belirlenmesi gerekir. Ülkeler çalışmalarına üst gelir grubu ülkeleri tercih etmiştir ve çoğunlukla onları kendi aralarında karşılaştırmıştır . Bu analizde ise ayrım gözetilmeksizin gelişmiş , geri kalmış vb. tüm ülkeler hakkında bilgi edineceğiz . 
 
 
-Proje ödevinizde yer alan başlıkların bu metinde yer alan başlıkları kesinlikle içermesi gerekmektedir (doğal olarak ilk bölüm başlığı hariç). Burada kullanılan başlıklar haricinde farklı alt başlıklar da kullanabilirsiniz. Projenizi yazarken bu dosyayı taslak olarak kullanıp içeriğini projenize uyarlayınız.
+* Sel, A., & Göktolga, Z. G. (2020). 11. Kalkınma Planı Çerçevesinde Sektörel CO2 Salımı Değerleri Projeksiyonu. Akdeniz İİBF Dergisi, 20(2),sayfa 159
+
 
 ## Çalışmanın Amacı
-Bu bölümde yaptığınız çalışmanın amacından ve öneminden birkaç paragraf ile bahsediniz.
+Endüstriye ve ülkeye göre çıktı birimi başına CO₂ doğrudan ve dolaylı emisyonları  görünmektedir . Ülkeleri endüstrilerine göre ayıracağım . En fazla hangi endüstrilerde çıktı birimi başına CO₂ olduğunu bulacağım ve bu oranla ülkenin kalkınmışlığı arasında bir bağ var mı bakacağım.  
+
 
 ## Literatür 
-Bu bölümde konu ile ilgili olarak okuduğunuz makaleleri referans vererek tartışınız. **Her makaleyi ayrı başlık altında tek tek özetlemeyiniz.** Literatür taramasında **en az dört** makaleye atıf yapılması ve bu makalelerden **en az ikisinin İngilizce** olması gerekmektedir.
+ Literatür taraması yapıldığında karbon salımının incelendiği çalışmalara fazlasıyla rastlanmıştır.Elbette ilgilenilen ülkelerle veriler arasında farklar olduğu gibi analiz sonuçları da birbirinden farklı olmuştur . Bu analizi diğer analizlerden ayıran en büyük fark tüm ülkeleri de kapsayacağıdır . 
+  Çalışmada, CO2 emisyon düzeyi ile ülkelerin diğer ülkelere yaptıkları yabancı 
+sermaye yatırımı düzeyi arasındaki ilişki, 12 üst gelir grubuna dahil ülkenin 1970-
+2012 yılları arasındaki verileri kullanılarak, Genelleştirilmiş Momentler Metodunun 
+(GMM) sistem yöntemi ile analiz edilmiştir. Çalışmada yardımcı açıklayıcı değişkenler olarak kişi başına düşen enerji tüketimi ve kişi başına düşen gelir kullanılmıştır.@article{Akın, C. S. (2014)
+  Ekonominin tamamını ilgilendiren analizlerde girdi çıktı tabloları etkin olarak kullanılabilir. Girdi çıktı modelleri ilk olarak Amerikan ekonomisinin yapısal analizinde W.W. Leontief tarafından 1930 yılında incelenmiştir. Girdi çıktı analizinde bir bölgede yer alan sektörlerin birbirleriyle olan ilişkilerini inceler. Herhangi bir mali yılda sektörlerin aramal kullanımlarını ve miktarını para birimi cinsinden verir. 
+Özellikle bir ülkede sektörel olarak GSYH’nın dağılımı bu tablolar ile rahatlıkla görülebilir.@article{Sel, A., & Göktolga, Z. G. (2020),
+  This research pretends to contribute to the existing empirical literature. At first we revisit the link between renewable and non-renewable energy and economic growth. The correlation between carbon dioxide emissions and growth, as well as, globalization and economic growth was analyzed. The econometric model is formulated based on the assumptions presented in the literature review. This study presents important findings for the Portuguese economy; these can be used by policy makers.@article{Leitão, N. C. (2014)
+  Therefore, this study aims to answer these two questions:
+1) What is the level of CO2 emission produced by the global construction sector?
+2) What are the hot spots and improvement opportunities of the global construction sector?
+In order to answer these two questions, this study conducts inputoutput analysis based the world input-output table in 2009.2 The study considers 40 countries and 26 kinds of energy. It analyses the CO2 emission produced by energy use and non-energy use for the global
+construction sector.@article{Lizhen H.(2018)
 
 
 **_Taslakta bu cümleden sonra yer alan hiçbir şey silinmemelidir._**
